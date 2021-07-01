@@ -8,6 +8,7 @@ _Hello there, this is **Abhishek Pal**. A **Full Stack Web Developer** with a vi
 </br>
 - 🔭 I’m currently working on MERN stack.
 - 🌱 Improving my DSA skills.
+- 🤝 Pronouns: Anx/He/Him
 - 👯 I’m looking to collaborate with other devs on cool projects!
 - 👨‍🎓 Ongoing Intern at Orions IT Solutions.
 </div>
