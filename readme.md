@@ -4,6 +4,8 @@
 <img align="right" src="/icons/image.gif"  width="500">
 
 _Hello there, this is **Abhishek Pal**. A **Full Stack Web Developer** with a vision to make this web beautiful. I spend my whole day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Redux. I build websites that delight and inform. I do it well._
+ </br>
+</br>
 - 🔭 I’m currently working on MERN stack.
 - 🌱 Improving my DSA skills.
 - 👯 I’m looking to collaborate with other devs on cool projects!
