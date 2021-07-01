@@ -8,7 +8,6 @@ _Hello there, this is **Abhishek Pal**. A **Full Stack Web Developer** with a vi
 - 🌱 Improving my DSA skills.
 - 👯 I’m looking to collaborate with other devs on cool projects!
 - 👨‍🎓 Ongoing Intern at Orions IT Solutions.
-- ⚡ Get me a pair of Air Jordans and I'll develop a site for you😁
 </div>
 <div align="center">
 </br>
@@ -17,9 +16,7 @@ _Hello there, this is **Abhishek Pal**. A **Full Stack Web Developer** with a vi
 <a href="#"><img height="30" src="/icons/icons8-facebook-50.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/abhishekpal463"><img height="30" src="/icons/icons8-instagram-50.png"></a>&nbsp;&nbsp;
 <a href="https://github.com/abhishekpal463"><img height="30" src="/icons/icons8-github-50.png"></a>&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/abhishekpal463"><img height="30" src="/icons/icons8-linkedin-50.png"></a>&nbsp;&nbsp;
-
 <a href="#"><img src="/icons/icons8-whatsapp-50.png"  height="30"></a>&nbsp;&nbsp;
 </p>
 <p align="center"><p> <img align="center" src="https://komarev.com/ghpvc/?username=abhishekpal463&color=blue" alt="counter"> </p></p>
