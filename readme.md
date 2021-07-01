@@ -6,9 +6,9 @@
 _Hello there, this is **Abhishek Pal**. A **Full Stack Web Developer** with a vision to make this web beautiful. I spend my whole day, experimenting with HTML, CSS, and JavaScript; dabbling with React and Redux. I build websites that delight and inform. I do it well._
  </br>
 </br>
-- 🔭 I’m currently working on MERN stack.
+- 🔭 I’m currently working on React.
 - 🌱 Improving my DSA skills.
-- 🤝 Pronouns: Anx/He/Him
+- 🤝 Pronouns: Abhi/He/Him
 - 👯 I’m looking to collaborate with other devs on cool projects!
 - 👨‍🎓 Ongoing Intern at Orions IT Solutions.
 </div>
