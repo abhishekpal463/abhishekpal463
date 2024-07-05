@@ -10,7 +10,7 @@ _Hello there, this is **Abhishek Pal**. A **Full Stack Web Developer** with a vi
 - 🌱 Improving my DSA skills.
 - 🤝 Pronouns: Abhi/He/Him
 - 👯 I’m looking to collaborate with other devs on cool projects!
-- 👨‍🎓 Ongoing Intern at Orions IT Solutions.
+- 👨‍🎓 Working as Backend Developer at Leena AI.
 </div>
 <div align="center">
 </br>
