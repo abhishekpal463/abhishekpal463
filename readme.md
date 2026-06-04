@@ -1,5 +1,5 @@
 <div>
-<h2 align='center'> <i>Hi there 👋, I'm Abhishek Pal <img src="/icons/wave.gif" width="30px"> glad to see you here</i> 🙂</h2>
+<h2 align='center'> <i>Hi there <img src="/icons/wave.gif" width="30px">, I'm Abhishek Pal glad to see you here</i> 🙂</h2>
 
 <img align="right" src="/icons/image.gif"  width="500">
 
