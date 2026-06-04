@@ -65,7 +65,6 @@ Datadog • Grafana • Git • Linux • Jira
 
 * 📧 Email: [abhishekpal463@gmail.com](mailto:abhishekpal463@gmail.com)
 * 💼 LinkedIn: https://linkedin.com/in/abhishekpal463
-* 🐙 GitHub: github.com/abhishekpal463
 
 ---
 
